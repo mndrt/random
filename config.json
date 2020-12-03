@@ -5,7 +5,7 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "google.nl",
+      "url": "https://google.nl",
       "duration": 5,
       "tabReloadIntervalSeconds": 10
     },
