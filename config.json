@@ -5,12 +5,12 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://lcpackaging.sharepoint.com/sites/Home/SitePages/Home.aspx",
+      "url": "google.nl",
       "duration": 5,
       "tabReloadIntervalSeconds": 10
     },
     {
-      "url": "",
+      "url": "https://covid19.who.int/table",
       "duration": 5,
       "tabReloadIntervalSeconds": 10
     }
