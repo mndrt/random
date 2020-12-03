@@ -1,0 +1,18 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://lcpackaging.sharepoint.com/sites/Home/SitePages/Home.aspx",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 10
+    },
+    {
+      "url": "",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 10
+    }
+  ]
+}
